@@ -1,0 +1,5 @@
+CHOICES
+
+I decided to use Python because it already has very useful packages built in, such as the CSV package which I used, and because I appreciate its clear and simple syntax.
+
+You can follow the comments in my code to follow my thoughts on the specific steps. 
