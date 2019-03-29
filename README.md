@@ -1,6 +1,6 @@
 # BBC_News_Labs_Assignment
 
-1. Install Python 3.0
+1. Install Python 3
 2. Open Terminal
 3. Navigate to directory
 4. Run command 'python3 bbc_assignment.py'
